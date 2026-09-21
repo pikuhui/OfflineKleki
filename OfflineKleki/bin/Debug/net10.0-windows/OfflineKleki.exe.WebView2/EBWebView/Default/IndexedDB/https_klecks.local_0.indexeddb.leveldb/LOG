@@ -1,0 +1,13 @@
+2026/09/21-13:14:30.751 6a0c Reusing MANIFEST C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default\IndexedDB\https_klecks.local_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/21-13:14:30.753 6a0c Recovering log #7
+2026/09/21-13:14:30.754 6a0c Reusing old log C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default\IndexedDB\https_klecks.local_0.indexeddb.leveldb/000007.log 
+2026/09/21-13:14:30.786 774 Level-0 table #11: started
+2026/09/21-13:14:30.795 774 Level-0 table #11: 1411 bytes OK
+2026/09/21-13:14:30.799 774 Delete type=0 #7
+2026/09/21-13:14:30.800 6a0c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x03\x01\x09\x00t\x00e\x00s\x00t\x00S\x00t\x00o\x00r\x00e' @ 348 : 1
+2026/09/21-13:14:30.801 6a0c Compacting 1@0 + 1@1 files
+2026/09/21-13:14:30.805 6a0c Generated table #12@0: 96 keys, 1288 bytes
+2026/09/21-13:14:30.805 6a0c Compacted 1@0 + 1@1 files => 1288 bytes
+2026/09/21-13:14:30.808 6a0c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/21-13:14:30.809 6a0c Delete type=2 #11
+2026/09/21-13:14:30.810 6a0c Manual compaction at level-0 from '\x00\x04\x01\x03\x01\x09\x00t\x00e\x00s\x00t\x00S\x00t\x00o\x00r\x00e' @ 348 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

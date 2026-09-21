@@ -1,0 +1,7 @@
+2026/09/21-13:08:51.626 e64 Reusing MANIFEST C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default\IndexedDB\https_klecks.local_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/21-13:08:51.627 e64 Recovering log #4
+2026/09/21-13:08:51.628 e64 Reusing old log C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default\IndexedDB\https_klecks.local_0.indexeddb.leveldb/000004.log 
+2026/09/21-13:08:51.649 5a6c Level-0 table #8: started
+2026/09/21-13:08:51.655 5a6c Level-0 table #8: 2650 bytes OK
+2026/09/21-13:08:51.659 5a6c Delete type=0 #4
+2026/09/21-13:08:51.660 5ac4 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
