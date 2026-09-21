@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "4Q3FQG1j1qQ=",
+  "dgSpecHash": "CT27klvF5Ac=",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\Desktop\\projects\\kleki offline\\OfflineKleki\\OfflineKleki.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.web.webview2\\1.0.4191.47\\microsoft.web.webview2.1.0.4191.47.nupkg.sha512"
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.10\\microsoft.net.illink.tasks.10.0.10.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.web.webview2\\1.0.4191.47\\microsoft.web.webview2.1.0.4191.47.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.10\\microsoft.netcore.app.runtime.win-x64.10.0.10.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.10.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.10\\microsoft.aspnetcore.app.runtime.win-x64.10.0.10.nupkg.sha512"
   ],
   "logs": []
 }

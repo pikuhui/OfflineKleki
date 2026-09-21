@@ -13,7 +13,11 @@
     <SourceRoot Include="C:\Users\andre\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.net.illink.tasks\10.0.10\build\Microsoft.NET.ILLink.Tasks.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.illink.tasks\10.0.10\build\Microsoft.NET.ILLink.Tasks.props')" />
+  </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\andre\.nuget\packages\microsoft.web.webview2\1.0.4191.47</PkgMicrosoft_Web_WebView2>
+    <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\andre\.nuget\packages\microsoft.net.illink.tasks\10.0.10</PkgMicrosoft_NET_ILLink_Tasks>
   </PropertyGroup>
 </Project>

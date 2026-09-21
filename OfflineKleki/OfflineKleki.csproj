@@ -1,20 +1,40 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-<ItemGroup>
-    <Content Include="build\**\*">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-</ItemGroup>
-<ItemGroup>
-  <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.4191.47" />
-</ItemGroup>
+
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
         <TargetFramework>net10.0-windows</TargetFramework>
+        <UseWPF>true</UseWPF>
+
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
-        <UseWPF>true</UseWPF>
-   
 
-    <ApplicationIcon>Kleki-logomark-transparent.ico</ApplicationIcon>
-</PropertyGroup>
+        <!-- EXE icon -->
+        <ApplicationIcon>Assets\kleki.ico</ApplicationIcon>
+
+        <!-- Single-file Windows x64 -->
+        <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+        <SelfContained>true</SelfContained>
+        <PublishSingleFile>true</PublishSingleFile>
+
+        <!-- Put native .dll files inside the EXE -->
+        <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+
+        <!-- Compress the single-file bundle -->
+        <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+
+        <!-- No debug files -->
+        <DebugType>None</DebugType>
+        <DebugSymbols>false</DebugSymbols>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Web.WebView2"
+                          Version="1.0.4191.47" />
+    </ItemGroup>
+
+    <!-- Embed the entire Kleki build inside the EXE -->
+    <ItemGroup>
+        <EmbeddedResource Include="build\**\*" />
+    </ItemGroup>
+
 </Project>

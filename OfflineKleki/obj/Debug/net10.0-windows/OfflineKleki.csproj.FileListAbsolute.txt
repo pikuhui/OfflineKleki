@@ -18,87 +18,6 @@ C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\obj\Debug\net10.0-win
 C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\obj\Debug\net10.0-windows\OfflineKleki.genruntimeconfig.cache
 C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\obj\Debug\net10.0-windows\ref\OfflineKleki.dll
 C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\obj\Debug\net10.0-windows\OfflineKleki_Content.g.cs
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\ag-psd.b33127f0.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\ag-psd.b33127f0.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\brush-sketchy.6c75169d.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\Caveat-Regular.2fe80bbd.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\ClimateCrisis-Regular-VariableFont_YEAR.3ad02523.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\CorrectionBrush.a69973aa.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\cursor-fill.ab749dde.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\cursor-picker.71be1460.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\cursor-rotate.0c8e34b1.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\cursor-text.b4ebf6cd.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\cursor-zoom-ew.d3ab2d60.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\DancingScript-Regular.ef2fe647.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\de.a55f0b61.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\de.a55f0b61.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\Diabolik-Regular-VF.f4eeb79e.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\edit-invert.91bfa402.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\edit-tilt-shift.7ad164eb.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\edit-triangle-blur.17417e43.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\edit-unsharp-mask.38afa514.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\es.b561cc0e.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\es.b561cc0e.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\fi.7af987a4.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\fi.7af987a4.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\font-licenses.760c91e6.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\font-licenses.760c91e6.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\fr.daf33b5c.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\fr.daf33b5c.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\FreckleFace-Regular.05946539.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\Gloock-Regular.60f8f765.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\GochiHand-Regular.c45792b0.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\help.html
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\hu.84287538.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\hu.84287538.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\id.d00a7b22.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\id.d00a7b22.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\index.html
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\ja.1f3fd633.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\ja.1f3fd633.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\jv.75afb559.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\jv.75afb559.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks rep.4b1819d8.css
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks rep.4b1819d8.css.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks rep.aee65d2e.css
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks rep.aee65d2e.css.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks rep.cc4d2105.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks rep.cc4d2105.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks rep.d22903fe.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks rep.d22903fe.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks-icon.ec3e5aec.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks-logo.ae8bd45e.png
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks-service-worker.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\klecks-service-worker.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\ko.7be4987c.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\ko.7be4987c.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\licenses.7eaed2ea.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\licenses.7eaed2ea.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\loading.7ff8a2ac.gif
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\lv.d9957b9b.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\lv.d9957b9b.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\nl.1e0676e2.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\nl.1e0676e2.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\Pacha.08c8457a.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\PassionOne-Bold.9e08b0dc.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\PixeloidSans.bc292131.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\PlaypenSans-Thin.314b29a4.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\pt-BR.12a0e75d.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\pt-BR.12a0e75d.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\Quicksand-Light.1f0c44a2.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\ru.7517bee0.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\ru.7517bee0.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\Silkscreen-Regular.cef2b4cb.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\su.6f4579be.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\su.6f4579be.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\sv.48e9c767.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\sv.48e9c767.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\Tehroc-Regular.4540047b.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\YUNGA-Display.30c04a15.woff2
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\zh-CN.f9d2b2f8.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\zh-CN.f9d2b2f8.js.map
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\zh-TW.9f131a60.js
-C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\build\zh-TW.9f131a60.js.map
 C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\runtimes\win-x86\native\WebView2Loader.dll
 C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\runtimes\win-x64\native\WebView2Loader.dll
 C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
@@ -110,3 +29,4 @@ C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-win
 C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\Microsoft.Web.WebView2.Wpf.xml
 C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\obj\Debug\net10.0-windows\OfflineKleki.csproj.AssemblyReference.cache
 C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\obj\Debug\net10.0-windows\OfflineK.E931E64E.Up2Date
+C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\obj\Debug\net10.0-windows\OfflineKleki.sourcelink.json

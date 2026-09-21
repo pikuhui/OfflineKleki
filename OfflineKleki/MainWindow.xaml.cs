@@ -1,14 +1,14 @@
-﻿using System.Diagnostics;
+﻿using System.IO;
+using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Interop;
+using Microsoft.Web.WebView2.Core;
 
 namespace OfflineKleki;
 
 public partial class MainWindow : Window
 {
-    private Process? _server;
-
     private const int DWMWA_USE_IMMERSIVE_DARK_MODE = 20;
 
     [DllImport("dwmapi.dll")]
@@ -21,18 +21,6 @@ public partial class MainWindow : Window
     public MainWindow()
     {
         InitializeComponent();
-
-        var startInfo = new ProcessStartInfo
-        {
-            FileName = "cmd.exe",
-            Arguments = "/C py -m http.server 8080",
-            WorkingDirectory = "build",
-            WindowStyle = ProcessWindowStyle.Hidden,
-            CreateNoWindow = true,
-            UseShellExecute = false
-        };
-
-        _server = Process.Start(startInfo);
 
         Loaded += MainWindow_Loaded;
     }
@@ -54,16 +42,75 @@ public partial class MainWindow : Window
 
         await WebView.EnsureCoreWebView2Async();
 
+        WebView.CoreWebView2.AddWebResourceRequestedFilter(
+            "https://kleki.local/*",
+            CoreWebView2WebResourceContext.All
+        );
+
+        WebView.CoreWebView2.WebResourceRequested +=
+            WebResourceRequested;
+
         WebView.CoreWebView2.Navigate(
-            "http://127.0.0.1:8080"
+            "https://kleki.local/"
         );
     }
 
-    protected override void OnClosed(EventArgs e)
+    private void WebResourceRequested(
+        object? sender,
+        CoreWebView2WebResourceRequestedEventArgs e)
     {
-        _server?.Kill();
-        _server?.Dispose();
+        var path = Uri.UnescapeDataString(
+            new Uri(e.Request.Uri).AbsolutePath.TrimStart('/')
+        );
 
-        base.OnClosed(e);
+        if (path == "")
+        {
+            path = "index.html";
+        }
+
+        var resourceName =
+            "OfflineKleki.build." +
+            path.Replace("/", ".");
+
+        var assembly = Assembly.GetExecutingAssembly();
+
+        var stream =
+            assembly.GetManifestResourceStream(resourceName);
+
+        if (stream == null)
+        {
+            return;
+        }
+
+        e.Response =
+            WebView.CoreWebView2.Environment.CreateWebResourceResponse(
+                stream,
+                200,
+                "OK",
+                $"Content-Type: {GetContentType(path)}"
+            );
+    }
+
+    private static string GetContentType(string path)
+    {
+        return Path.GetExtension(path).ToLowerInvariant() switch
+        {
+            ".html" => "text/html",
+            ".js" => "text/javascript",
+            ".css" => "text/css",
+            ".json" => "application/json",
+            ".svg" => "image/svg+xml",
+            ".png" => "image/png",
+            ".jpg" => "image/jpeg",
+            ".jpeg" => "image/jpeg",
+            ".gif" => "image/gif",
+            ".webp" => "image/webp",
+            ".ico" => "image/x-icon",
+            ".woff" => "font/woff",
+            ".woff2" => "font/woff2",
+            ".ttf" => "font/ttf",
+            ".wasm" => "application/wasm",
+            _ => "application/octet-stream"
+        };
     }
 }

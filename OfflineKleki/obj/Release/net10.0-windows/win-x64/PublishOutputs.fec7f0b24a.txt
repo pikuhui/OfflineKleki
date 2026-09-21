@@ -1,0 +1,4 @@
+C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Release\net10.0-windows\win-x64\publish\Microsoft.Web.WebView2.Core.xml
+C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Release\net10.0-windows\win-x64\publish\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Release\net10.0-windows\win-x64\publish\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Release\net10.0-windows\win-x64\publish\OfflineKleki.exe

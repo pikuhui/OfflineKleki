@@ -35,3 +35,41 @@
 2026-09-21 11:20:44.957: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-21 11:20:44.957: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-21 11:20:51.613: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 11:32:56.369: [INFO] CurrentProfilePath: C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default
+2026-09-21 11:32:56.369: [INFO] Profiles total count: 1
+2026-09-21 11:32:56.369: [INFO] Profile: name=Profile 1 path=C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default lastActive=2026-09-21T11:14:49.615Z
+2026-09-21 11:32:56.369: [INFO] LastUsedProfileDir: C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default
+2026-09-21 11:32:56.369: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default lastActive=2026-09-21T11:14:49.615Z
+2026-09-21 11:32:56.369: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 11:32:56.369: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 11:32:56.369: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 11:32:56.369: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 11:35:09.713: [INFO] CurrentProfilePath: C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default
+2026-09-21 11:35:09.713: [INFO] Profiles total count: 1
+2026-09-21 11:35:09.713: [INFO] Profile: name=Profile 1 path=C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default lastActive=2026-09-21T11:33:48.577Z
+2026-09-21 11:35:09.713: [INFO] LastUsedProfileDir: C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default
+2026-09-21 11:35:09.713: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default lastActive=2026-09-21T11:33:48.577Z
+2026-09-21 11:35:09.714: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 11:35:09.714: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 11:35:09.714: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 11:35:09.714: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 11:35:49.686: [INFO] CurrentProfilePath: C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default
+2026-09-21 11:35:49.686: [INFO] Profiles total count: 1
+2026-09-21 11:35:49.686: [INFO] Profile: name=Profile 1 path=C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default lastActive=2026-09-21T11:35:28.127Z
+2026-09-21 11:35:49.686: [INFO] LastUsedProfileDir: C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default
+2026-09-21 11:35:49.686: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default lastActive=2026-09-21T11:35:28.127Z
+2026-09-21 11:35:49.686: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 11:35:49.686: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 11:35:49.687: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 11:35:49.687: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 11:36:32.457: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 11:36:48.513: [INFO] CurrentProfilePath: C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default
+2026-09-21 11:36:48.513: [INFO] Profiles total count: 1
+2026-09-21 11:36:48.514: [INFO] Profile: name=Profile 1 path=C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default lastActive=2026-09-21T11:35:28.127Z
+2026-09-21 11:36:48.514: [INFO] LastUsedProfileDir: C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default
+2026-09-21 11:36:48.514: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\andre\Desktop\projects\kleki offline\OfflineKleki\bin\Debug\net10.0-windows\OfflineKleki.exe.WebView2\EBWebView\Default lastActive=2026-09-21T11:35:28.127Z
+2026-09-21 11:36:48.514: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 11:36:48.514: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 11:36:48.514: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 11:36:48.514: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 11:36:58.267: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
